@@ -1,7 +1,10 @@
 import React from "react";
 
 function BookEdit() {
-  return <div>BookEdit</div>;
+  return <div>
+  <form action="">
+    <input type="text" name="" id="" />
+  </form></div>;
 }
 
 export default BookEdit;
