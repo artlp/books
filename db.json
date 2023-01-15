@@ -1,24 +1,16 @@
 {
   "books": [
     {
-      "title": "рпорпо",
+      "title": "21st Century Coliseum",
       "id": 1
     },
     {
-      "title": "sdfsfsf",
+      "title": "Office stuff of Sue",
       "id": 2
     },
     {
-      "title": "птолуктпотуклоуклоп",
+      "title": "The Waterfalls",
       "id": 3
-    },
-    {
-      "title": "авпавп",
-      "id": 4
-    },
-    {
-      "title": "авбпавпавп",
-      "id": 5
     }
   ]
 }
